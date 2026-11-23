@@ -76,15 +76,7 @@ python generate_data.py
 
 ---
 
-## 📈 Dashboard Preview
 
-> Add screenshots here once you've built your dashboard.
-
-```
-screenshots/overview.png
-screenshots/sales-by-region.png
-screenshots/profitability.png
-```
 
 ---
 
@@ -98,6 +90,4 @@ screenshots/profitability.png
 
 ---
 
-## 📄 License
 
-This project uses synthetic data generated for educational purposes. Free to use, modify, and share.
